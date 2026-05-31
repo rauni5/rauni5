@@ -93,15 +93,6 @@ Python-based inventory and billing system developed as part of coursework.
 * Improve React skills
 * Contribute to open-source projects
 * Secure a Software Development Internship
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauni5\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauni5\&layout=compact)
-
 ---
 
 ## Connect With Me
