@@ -99,7 +99,7 @@ Python-based inventory and billing system developed as part of coursework.
 
 📧 Email: [raunit06@gmail.com](mailto:raunit06@gmail.com)
 
-🌐 Portfolio: [Creation in progress]
+🌐 Portfolio: [portfolio.vercel.app/](https://portfolio-eight-gamma-ey1k5y8lo3.vercel.app/)
 
 ---
 
