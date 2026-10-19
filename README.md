@@ -41,7 +41,7 @@ I build web and mobile applications, with a focus on **Spring Boot REST backends
 | **Languages** | Java, C#, JavaScript, Python, SQL, Dart |
 | **Backend** | Spring Boot, REST APIs, JSP, Servlets, JSTL, Express.js |
 | **Frontend / Mobile** | React.js, Flutter, HTML, CSS |
-| **Database** | MySQL, Firebase |
+| **Database** | MySQL, Firebase, PostgreSQL |
 | **Tools &amp; DevOps** | Git, GitHub, Maven, Docker, Apache Tomcat, Vite, AWS |
 | **Security &amp; Architecture** | RESTful API design, Firebase Auth with token filters, role-based access, client–server architecture |
 
@@ -89,7 +89,7 @@ A chat interface built to practise component architecture, props, state manageme
 ## 🎯 Current Goals
 
 - [x] Migrate a legacy JSP/Servlet app to Spring Boot + React
-- [x] Build and deploy a Spring Boot backend on AWS
+- [x] Build and deploy a Spring Boot backend on AWS/AZURE
 - [x] Go deeper on Spring Security, testing and CI/CD
 - [ ] Contribute to open-source projects
 - [ ] Land a Software Development Internship
