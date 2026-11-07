@@ -15,10 +15,11 @@
 
 I build web and mobile applications, with a focus on **Spring Boot REST backends** and **React / Flutter frontends**. I like taking a project from a rough idea to something deployed, and I learn best by building: my coursework projects get rebuilt with modern stacks, and my side projects solve problems I actually care about.
 
--  Studying BSc (Hons) Computing, Year 2, at Islington College
--  Building **SkillPath**, a career learning and collaboration platform (Flutter + Spring Boot on AWS)
--  Currently deepening: **Spring Boot, REST API design, Docker and AWS**
--  Looking for a **Software Development Internship** (backend or full-stack)
+- Studying **BSc (Hons) Computing** at Islington College (London Metropolitan University), Kathmandu 🇳🇵
+- Built & deployed **SkillPath**, a full-stack career learning & collaboration platform (**Flutter + Java 21 Spring Boot + 100+ REST endpoints + 30+ table PostgreSQL schema on Azure Container Apps**)
+- Currently deepening: **React.js, Spring Boot, Python, Docker, and AI API integrations**
+- Actively seeking a **Software Development Internship / Trainee role** (Full-Stack, Backend, Frontend, or Mobile)
+
 
 ---
 
@@ -50,7 +51,7 @@ I build web and mobile applications, with a focus on **Spring Boot REST backends
 ## 🚀 Featured Projects
 
 ### 🎯 SkillPath: Career Learning and Collaboration Platform
-Cross-platform mobile app where learners set career goals, track skills and follow personalized learning roadmaps, backed by a layered Spring Boot REST API deployed on AWS.
+Cross-platform mobile app where learners set career goals, track skills and follow personalized learning roadmaps, backed by a layered Spring Boot REST API deployed on Azure.
 
 - Progress dashboard and gamified achievements
 - Roadmap generation, skill checks, project collaboration with discussions and notifications
@@ -58,7 +59,7 @@ Cross-platform mobile app where learners set career goals, track skills and foll
 - Firebase Authentication with a backend token filter for secure, role-based access
 - Supabase Storage for profile image uploads
 
-**Stack:** Flutter · Dart · Java · Spring Boot · REST · Firebase Auth · Gemini API · Supabase · AWS · SQL
+**Stack:** Flutter · Dart · Java · Spring Boot · REST · Firebase Auth · Gemini API · Supabase · Azure · SQL
 
  **Repositories:** [Mobile app (Flutter)](https://github.com/rauni5/skillpath_app) · [Backend (Spring Boot)](https://github.com/rauni5/SkillPath-Backend)
 
