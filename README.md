@@ -43,7 +43,7 @@ I build web and mobile applications, with a focus on **Spring Boot REST backends
 | **Backend** | Spring Boot, REST APIs, JSP, Servlets, JSTL, Express.js |
 | **Frontend / Mobile** | React.js, Flutter, HTML, CSS |
 | **Database** | MySQL, Firebase, PostgreSQL |
-| **Tools &amp; DevOps** | Git, GitHub, Maven, Docker, Apache Tomcat, Vite, AWS |
+| **Tools &amp; DevOps** | Git, GitHub, Maven, Docker, Apache Tomcat, Vite, AWS/Azure |
 | **Security &amp; Architecture** | RESTful API design, Firebase Auth with token filters, role-based access, client–server architecture |
 
 ---
